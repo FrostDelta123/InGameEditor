@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "InGameEditor",
+        "name": "InGameEditor",
+        "description": "In-game config editor mod ",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["FrostDelta123"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
